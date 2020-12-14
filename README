@@ -1,0 +1,7 @@
+Analysis of Graduate Admission Data
+
+The project circles around a dataset provided by Kaggle containing various Scores and measurements of performance. 
+The ground truth and goal of the project is to predict the Chance of Admittance. 
+The best combinations of predicting variables were evaluated using R62 and the RMSE. 
+3 Regression Models were completed upon the test dataset split to select the best one. 
+
